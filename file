@@ -1,0 +1,7 @@
+hello :
+git init
+touch file.txt 
+git add .
+git commit -m "add file"
+git remote add origin https://github.com/werdani/versionpython.git
+git push origin main
